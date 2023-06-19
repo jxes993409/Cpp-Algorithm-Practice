@@ -1,1 +1,1 @@
-# Algorithm 😮😮😮
+# 01 - Partition[]
